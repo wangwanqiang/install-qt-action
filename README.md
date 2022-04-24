@@ -10,7 +10,7 @@ You know what's easier than dealing with that? Just using this:
 
 All done.
 
-## Options
+## Options  
 
 ### `version`
 The desired version of Qt to install.
